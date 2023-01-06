@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimothyPeck
-- 👀 I’m interested in Game dev
+- 👀 I’m interested in Game and Web dev
 - 🌱 I’m currently learning Software developement
 
 <!---

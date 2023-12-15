@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timothypeck" alt="timothypeck" /></a> </p> -->
 
-- 📫 How to reach me **t.r.peck@hotmail.com, timothy.peck@he-arc.ch**
+- 📫 How to reach me **t.r.peck@hotmail.com**
 
 - 📄 Know about my experiences [https://timothy-peck.vercel.app](https://timothy-peck.vercel.app)
 

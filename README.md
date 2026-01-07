@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">Software Developer</h3>
+
 - 📫 How to reach me **t.r.peck@hotmail.com**
 
 - 📄 Know about my experiences [https://timothy-peck.vercel.app/](https://timothy-peck.vercel.app/)
